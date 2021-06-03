@@ -11,6 +11,7 @@ import {
 // import { Router, Route, Link, browserHistory } from 'react-router'
 import logo from './logo.svg';
 import './App.css';
+import 'mapbox-gl/dist/mapbox-gl.css'
 import Dashboard from './modules/dashboard/dashboard'
 import Home from './modules/dashboard/home'
 import About from './modules/dashboard/about'
