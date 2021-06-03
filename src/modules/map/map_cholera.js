@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import ReactMapGL, {Marker} from 'react-map-gl';
 import {countries} from '../../data/country';
 import logo from "../../data/cholera.png"
+import 'mapbox-gl/dist/mapbox-gl.css'
 // eslint-disable-next-line import/no-webpack-loader-syntax
 import MapboxWorker from 'worker-loader!mapbox-gl/dist/mapbox-gl-csp-worker';
 import mapboxgl from 'mapbox-gl'
