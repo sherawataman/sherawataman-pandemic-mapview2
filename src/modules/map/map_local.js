@@ -6,8 +6,8 @@ import logo from "../../data/ebola.png"
 // eslint-disable-next-line import/no-webpack-loader-syntax
 import MapboxWorker from 'worker-loader!mapbox-gl/dist/mapbox-gl-csp-worker';
 import mapboxgl from 'mapbox-gl'
-// eslint-disable-next-line import/no-webpack-loader-syntaxs
-mapboxgl.workerClass = require('worker-loader!mapbox-gl/dist/mapbox-gl-csp-worker').default;
+// // eslint-disable-next-line import/no-webpack-loader-syntaxs
+// mapboxgl.workerClass = require('worker-loader!mapbox-gl/dist/mapbox-gl-csp-worker').default;
 
 function Maplocal({data: data}) {
     let [viewport, setViewport] = useState({

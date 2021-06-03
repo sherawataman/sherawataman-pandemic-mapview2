@@ -7,8 +7,8 @@ import {countries} from '../../data/country';
 // eslint-disable-next-line import/no-webpack-loader-syntax
 import MapboxWorker from 'worker-loader!mapbox-gl/dist/mapbox-gl-csp-worker';
 import mapboxgl from 'mapbox-gl'
-// eslint-disable-next-line import/no-webpack-loader-syntax
-mapboxgl.workerClass = require('worker-loader!mapbox-gl/dist/mapbox-gl-csp-worker').default;
+// // eslint-disable-next-line import/no-webpack-loader-syntax
+// mapboxgl.workerClass = require('worker-loader!mapbox-gl/dist/mapbox-gl-csp-worker').default;
 
 function Map({data: data}) {
     let [viewport, setViewport] = useState({
