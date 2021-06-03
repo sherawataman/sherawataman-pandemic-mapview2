@@ -11,7 +11,7 @@ import mapboxgl from 'mapbox-gl'
 
 function Maphiv({data: data}) {
     let [viewport, setViewport] = useState({
-
+        container: 'map',
         longitude: -122.45,
         latitude: 37.78,
         zoom: 2,
