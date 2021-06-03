@@ -4,9 +4,11 @@ import ReactMapGL, {Marker} from 'react-map-gl';
 import * as TestData from "../../data/test-data.json";
 import logo from "../../data/co.png"
 import {countries} from '../../data/country';
+import MapboxWorker from 'worker-loader!mapbox-gl/dist/mapbox-gl-csp-worker';
+import mapboxgl from 'mapbox-gl'
+// mapboxgl.workerClass = require('worker-loader!mapbox-gl/dist/mapbox-gl-csp-worker').default;
 
 function Map({data: data}) {
-    
     let [viewport, setViewport] = useState({
 
         longitude: -122.45,
