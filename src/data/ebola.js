@@ -121,31 +121,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-10",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-10",
     "value": 1
   },
@@ -253,25 +253,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-10",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-10",
     "value": 4
   },
@@ -349,49 +349,49 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-10",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-10",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-06",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-06",
     "value": 0
   },
@@ -517,7 +517,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-06",
     "value": 1
   },
@@ -625,25 +625,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-06",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-06",
     "value": 4
   },
@@ -721,49 +721,49 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-06",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-06",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-05",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-05",
     "value": 0
   },
@@ -889,7 +889,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-05",
     "value": 1
   },
@@ -997,25 +997,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-05",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-05",
     "value": 4
   },
@@ -1093,55 +1093,55 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-05",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-05",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-04",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-04",
     "value": 1
   },
@@ -1249,25 +1249,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-04",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-04",
     "value": 4
   },
@@ -1345,25 +1345,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-04",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-04",
     "value": 1
   },
@@ -1489,25 +1489,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-02",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-02",
     "value": 0
   },
@@ -1633,7 +1633,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-02",
     "value": 1
   },
@@ -1741,25 +1741,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-02",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-02",
     "value": 4
   },
@@ -1837,49 +1837,49 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-02",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-02",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-27",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-27",
     "value": 0
   },
@@ -2005,7 +2005,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-27",
     "value": 1
   },
@@ -2113,25 +2113,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-27",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-27",
     "value": 4
   },
@@ -2209,49 +2209,49 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-27",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-27",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-26",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-26",
     "value": 0
   },
@@ -2377,7 +2377,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-26",
     "value": 1
   },
@@ -2485,25 +2485,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-26",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-26",
     "value": 4
   },
@@ -2581,49 +2581,49 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-26",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-26",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-25",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-25",
     "value": 0
   },
@@ -2785,7 +2785,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-25",
     "value": 1
   },
@@ -2893,25 +2893,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-25",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-25",
     "value": 4
   },
@@ -2989,49 +2989,49 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-25",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-25",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-23",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-23",
     "value": 0
   },
@@ -3157,7 +3157,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-23",
     "value": 1
   },
@@ -3265,25 +3265,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-23",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-23",
     "value": 4
   },
@@ -3361,49 +3361,49 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-23",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-23",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-20",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-20",
     "value": 0
   },
@@ -3529,7 +3529,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-20",
     "value": 1
   },
@@ -3637,25 +3637,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-20",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-20",
     "value": 4
   },
@@ -3733,49 +3733,49 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-20",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-20",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-19",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-19",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-19",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-19",
     "value": 0
   },
@@ -3901,7 +3901,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-19",
     "value": 1
   },
@@ -4009,25 +4009,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-19",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-19",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-19",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-19",
     "value": 4
   },
@@ -4105,49 +4105,49 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-19",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-19",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-19",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-19",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-18",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-18",
     "value": 0
   },
@@ -4309,7 +4309,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-18",
     "value": 1
   },
@@ -4417,25 +4417,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-18",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-18",
     "value": 4
   },
@@ -4513,49 +4513,49 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-18",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-18",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-17",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-17",
     "value": 0
   },
@@ -4681,7 +4681,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-17",
     "value": 1
   },
@@ -4789,25 +4789,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-17",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-17",
     "value": 4
   },
@@ -4885,49 +4885,49 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-17",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-17",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-16",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-16",
     "value": 0
   },
@@ -5053,7 +5053,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-16",
     "value": 1
   },
@@ -5161,25 +5161,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-16",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-16",
     "value": 4
   },
@@ -5257,25 +5257,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-16",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-16",
     "value": 1
   },
@@ -5407,31 +5407,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-13",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-13",
     "value": 1
   },
@@ -5539,25 +5539,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-13",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-13",
     "value": 4
   },
@@ -5635,49 +5635,49 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-13",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-13",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-12",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-12",
     "value": 0
   },
@@ -5809,7 +5809,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-12",
     "value": 1
   },
@@ -5917,25 +5917,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-12",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-12",
     "value": 4
   },
@@ -6013,49 +6013,49 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-12",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-12",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-11",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-11",
     "value": 0
   },
@@ -6223,7 +6223,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-11",
     "value": 1
   },
@@ -6331,25 +6331,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-11",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-11",
     "value": 4
   },
@@ -6427,25 +6427,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-11",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-11",
     "value": 1
   },
@@ -6577,31 +6577,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-10",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-10",
     "value": 1
   },
@@ -6709,25 +6709,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-10",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-10",
     "value": 4
   },
@@ -6805,49 +6805,49 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-10",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-10",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-06",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-06",
     "value": 0
   },
@@ -6973,7 +6973,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-06",
     "value": 1
   },
@@ -7081,25 +7081,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-06",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-06",
     "value": 4
   },
@@ -7177,49 +7177,49 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-06",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-06",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-05",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-05",
     "value": 0
   },
@@ -7345,7 +7345,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-05",
     "value": 1
   },
@@ -7453,25 +7453,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-05",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-05",
     "value": 4
   },
@@ -7549,49 +7549,49 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-05",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-05",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-04",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-04",
     "value": 0
   },
@@ -7753,7 +7753,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-04",
     "value": 1
   },
@@ -7861,25 +7861,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-04",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-04",
     "value": 4
   },
@@ -7957,49 +7957,49 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-04",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-04",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-03",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-03",
     "value": 0
   },
@@ -8125,7 +8125,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-03",
     "value": 1
   },
@@ -8233,25 +8233,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-03",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-03",
     "value": 4
   },
@@ -8329,25 +8329,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-03",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-03",
     "value": 1
   },
@@ -8473,31 +8473,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-02",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-02-02",
     "value": 1
   },
@@ -8605,25 +8605,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-02",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-02",
     "value": 4
   },
@@ -8701,49 +8701,49 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-02",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-02-02",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-30",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-30",
     "value": 0
   },
@@ -8869,7 +8869,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-30",
     "value": 1
   },
@@ -8977,25 +8977,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-30",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-30",
     "value": 4
   },
@@ -9073,49 +9073,49 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-30",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-30",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-29",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-29",
     "value": 0
   },
@@ -9241,7 +9241,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-29",
     "value": 1
   },
@@ -9349,25 +9349,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-29",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-29",
     "value": 4
   },
@@ -9445,31 +9445,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-29",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-29",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-28",
     "value": 0
   },
@@ -9481,7 +9481,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-28",
     "value": 0
   },
@@ -9565,7 +9565,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-28",
     "value": 0
   },
@@ -9613,7 +9613,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-28",
     "value": 1
   },
@@ -9649,7 +9649,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-28",
     "value": 1
   },
@@ -9757,25 +9757,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-28",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-28",
     "value": 4
   },
@@ -9853,25 +9853,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-28",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-28",
     "value": 1
   },
@@ -9943,19 +9943,19 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-27",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-27",
     "value": 0
   },
@@ -9985,7 +9985,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-27",
     "value": 0
   },
@@ -10021,7 +10021,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-27",
     "value": 1
   },
@@ -10129,25 +10129,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-27",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-27",
     "value": 4
   },
@@ -10225,25 +10225,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-27",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-27",
     "value": 1
   },
@@ -10315,25 +10315,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-26",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-26",
     "value": 0
   },
@@ -10393,7 +10393,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-26",
     "value": 1
   },
@@ -10501,25 +10501,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-26",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-26",
     "value": 4
   },
@@ -10597,25 +10597,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-26",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-26",
     "value": 1
   },
@@ -10645,7 +10645,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-23",
     "value": 1
   },
@@ -10669,19 +10669,19 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-23",
     "value": 0
   },
@@ -10765,7 +10765,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-23",
     "value": 1
   },
@@ -10873,25 +10873,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-23",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-23",
     "value": 4
   },
@@ -10969,25 +10969,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-23",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-23",
     "value": 1
   },
@@ -11047,7 +11047,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-22",
     "value": 1
   },
@@ -11071,19 +11071,19 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-22",
     "value": 0
   },
@@ -11137,7 +11137,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-22",
     "value": 1
   },
@@ -11245,25 +11245,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-22",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-22",
     "value": 4
   },
@@ -11341,25 +11341,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-22",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-22",
     "value": 1
   },
@@ -11455,25 +11455,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-21",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-21",
     "value": 0
   },
@@ -11545,7 +11545,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-21",
     "value": 1
   },
@@ -11653,25 +11653,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-21",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-21",
     "value": 4
   },
@@ -11749,25 +11749,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-21",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-21",
     "value": 1
   },
@@ -11875,7 +11875,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-20",
     "value": 1
   },
@@ -11899,25 +11899,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-20",
     "value": 1
   },
@@ -12025,25 +12025,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-20",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-20",
     "value": 4
   },
@@ -12121,25 +12121,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-20",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-20",
     "value": 1
   },
@@ -12151,7 +12151,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-19",
     "value": 0
   },
@@ -12235,13 +12235,13 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-19",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-19",
     "value": 0
   },
@@ -12283,13 +12283,13 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-19",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-19",
     "value": 1
   },
@@ -12397,25 +12397,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-19",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-19",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-19",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-19",
     "value": 4
   },
@@ -12493,25 +12493,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-19",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-19",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-19",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-19",
     "value": 1
   },
@@ -12541,25 +12541,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-16",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-16",
     "value": 0
   },
@@ -12691,7 +12691,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-16",
     "value": 1
   },
@@ -12769,25 +12769,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-16",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-16",
     "value": 4
   },
@@ -12865,25 +12865,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-16",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-16",
     "value": 1
   },
@@ -13033,25 +13033,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-15",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-15",
     "value": 0
   },
@@ -13063,7 +13063,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-15",
     "value": 1
   },
@@ -13141,25 +13141,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-15",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-15",
     "value": 4
   },
@@ -13237,25 +13237,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-15",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-15",
     "value": 1
   },
@@ -13285,25 +13285,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-14",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-14",
     "value": 0
   },
@@ -13471,7 +13471,7 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-14",
     "value": 1
   },
@@ -13549,25 +13549,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-14",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-14",
     "value": 4
   },
@@ -13645,25 +13645,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-14",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-14",
     "value": 1
   },
@@ -13813,25 +13813,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-13",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-13",
     "value": 0
   },
@@ -13861,25 +13861,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-12",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-12",
     "value": 0
   },
@@ -14149,25 +14149,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-09",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-09",
     "value": 0
   },
@@ -14197,25 +14197,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-08",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-08",
     "value": 0
   },
@@ -14437,25 +14437,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-07",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-07",
     "value": 1
   },
@@ -14533,25 +14533,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-07",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-07",
     "value": 4
   },
@@ -14617,25 +14617,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-07",
     "value": 0
   },
@@ -14713,25 +14713,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-07",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-07",
     "value": 1
   },
@@ -14869,25 +14869,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-06",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-06",
     "value": 1
   },
@@ -14965,25 +14965,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-06",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-06",
     "value": 4
   },
@@ -15049,25 +15049,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-06",
     "value": 0
   },
@@ -15145,25 +15145,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-06",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-06",
     "value": 1
   },
@@ -15265,49 +15265,49 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-05",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-05",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-05",
     "value": 4
   },
@@ -15445,31 +15445,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-05",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-05",
     "value": 1
   },
@@ -15643,49 +15643,49 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-02",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-02",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-02",
     "value": 4
   },
@@ -15823,31 +15823,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-01-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-02",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-01-02",
     "value": 1
   },
@@ -16021,25 +16021,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-31",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-31",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-31",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-31",
     "value": 4
   },
@@ -16213,25 +16213,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-31",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-31",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-31",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-31",
     "value": 1
   },
@@ -16429,25 +16429,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-30",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-30",
     "value": 4
   },
@@ -16585,25 +16585,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-30",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-30",
     "value": 1
   },
@@ -16777,25 +16777,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-29",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-29",
     "value": 4
   },
@@ -16933,25 +16933,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-29",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-29",
     "value": 1
   },
@@ -17125,25 +17125,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-26",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-26",
     "value": 4
   },
@@ -17281,25 +17281,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-26",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-26",
     "value": 1
   },
@@ -17473,25 +17473,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-24",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-24",
     "value": 4
   },
@@ -17629,25 +17629,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-24",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-24",
     "value": 1
   },
@@ -17821,25 +17821,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-23",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-23",
     "value": 4
   },
@@ -17977,25 +17977,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-23",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-23",
     "value": 1
   },
@@ -18169,25 +18169,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-22",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-22",
     "value": 4
   },
@@ -18325,25 +18325,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-22",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-22",
     "value": 1
   },
@@ -18493,25 +18493,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-17",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-17",
     "value": 4
   },
@@ -18685,25 +18685,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-17",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-17",
     "value": 1
   },
@@ -18901,25 +18901,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-15",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-15",
     "value": 4
   },
@@ -19057,25 +19057,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-15",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-15",
     "value": 1
   },
@@ -19225,25 +19225,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-10",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-10",
     "value": 4
   },
@@ -19417,25 +19417,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-10",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-10",
     "value": 1
   },
@@ -19609,25 +19609,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-03",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-03",
     "value": 4
   },
@@ -19801,25 +19801,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-03",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-03",
     "value": 1
   },
@@ -20017,25 +20017,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-01",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-01",
     "value": 4
   },
@@ -20173,25 +20173,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-01",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-12-01",
     "value": 1
   },
@@ -20365,25 +20365,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-26",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-26",
     "value": 4
   },
@@ -20575,25 +20575,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-26",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-26",
     "value": 1
   },
@@ -20767,25 +20767,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-21",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-21",
     "value": 4
   },
@@ -20941,25 +20941,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-21",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-21",
     "value": 1
   },
@@ -21133,25 +21133,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-19",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-19",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-19",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-19",
     "value": 4
   },
@@ -21361,25 +21361,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-19",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-19",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-19",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-19",
     "value": 1
   },
@@ -21553,25 +21553,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-14",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-14",
     "value": 4
   },
@@ -21709,25 +21709,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-14",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-14",
     "value": 1
   },
@@ -21901,25 +21901,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-12",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-12",
     "value": 4
   },
@@ -22129,25 +22129,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-12",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-12",
     "value": 1
   },
@@ -22321,25 +22321,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-07",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-07",
     "value": 4
   },
@@ -22495,25 +22495,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-07",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-07",
     "value": 1
   },
@@ -22687,25 +22687,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-05",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-05",
     "value": 4
   },
@@ -22915,25 +22915,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-05",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-11-05",
     "value": 1
   },
@@ -23107,25 +23107,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-31",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-31",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-31",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-31",
     "value": 4
   },
@@ -23245,25 +23245,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-31",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-31",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-31",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-31",
     "value": 1
   },
@@ -23437,25 +23437,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-29",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-29",
     "value": 4
   },
@@ -23719,25 +23719,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-29",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-29",
     "value": 1
   },
@@ -23887,13 +23887,13 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-25",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-25",
     "value": 4
   },
@@ -24043,13 +24043,13 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-25",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-25",
     "value": 1
   },
@@ -24187,13 +24187,13 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-22",
     "value": 3
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-22",
     "value": 3
   },
@@ -24475,13 +24475,13 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-22",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-22",
     "value": 1
   },
@@ -24649,13 +24649,13 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-17",
     "value": 3
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-17",
     "value": 3
   },
@@ -24775,13 +24775,13 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-17",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-17",
     "value": 1
   },
@@ -24919,13 +24919,13 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-15",
     "value": 2
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-15",
     "value": 2
   },
@@ -25189,13 +25189,13 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-15",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-15",
     "value": 1
   },
@@ -25333,13 +25333,13 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-10",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-10",
     "value": 1
   },
@@ -25477,13 +25477,13 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-10",
     "value": 0
   },
@@ -25609,13 +25609,13 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-08",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-08",
     "value": 1
   },
@@ -25885,13 +25885,13 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-08",
     "value": 0
   },
@@ -26017,13 +26017,13 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-03",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-03",
     "value": 1
   },
@@ -26149,13 +26149,13 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2014-10-03",
     "value": 0
   },
@@ -31339,31 +31339,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-11",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-11",
     "value": 1
   },
@@ -31471,25 +31471,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-11",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-11",
     "value": 4
   },
@@ -31567,25 +31567,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-11",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-11",
     "value": 1
   },
@@ -31711,31 +31711,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-12",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-12",
     "value": 1
   },
@@ -31843,25 +31843,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-12",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-12",
     "value": 4
   },
@@ -31939,25 +31939,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-12",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-12",
     "value": 1
   },
@@ -32083,31 +32083,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-13",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-13",
     "value": 1
   },
@@ -32215,25 +32215,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-13",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-13",
     "value": 4
   },
@@ -32311,25 +32311,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-13",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-13",
     "value": 1
   },
@@ -32455,31 +32455,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-16",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-16",
     "value": 1
   },
@@ -32587,25 +32587,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-16",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-16",
     "value": 4
   },
@@ -32683,25 +32683,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-16",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-16",
     "value": 1
   },
@@ -32827,31 +32827,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-17",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-17",
     "value": 1
   },
@@ -32959,25 +32959,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-17",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-17",
     "value": 4
   },
@@ -33055,25 +33055,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-17",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-17",
     "value": 1
   },
@@ -33235,31 +33235,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-18",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-18",
     "value": 1
   },
@@ -33367,25 +33367,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-18",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-18",
     "value": 4
   },
@@ -33463,25 +33463,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-18",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-18",
     "value": 1
   },
@@ -33607,31 +33607,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-20",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-20",
     "value": 1
   },
@@ -33739,25 +33739,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-20",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-20",
     "value": 4
   },
@@ -33835,25 +33835,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-20",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-20",
     "value": 1
   },
@@ -33979,31 +33979,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-23",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-23",
     "value": 1
   },
@@ -34111,25 +34111,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-23",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-23",
     "value": 4
   },
@@ -34207,25 +34207,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-23",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-23",
     "value": 1
   },
@@ -34351,31 +34351,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-24",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-24",
     "value": 1
   },
@@ -34483,25 +34483,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-24",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-24",
     "value": 4
   },
@@ -34579,25 +34579,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-24",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-24",
     "value": 1
   },
@@ -34759,31 +34759,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-25",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-25",
     "value": 1
   },
@@ -34891,25 +34891,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-25",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-25",
     "value": 4
   },
@@ -34987,25 +34987,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-25",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-25",
     "value": 1
   },
@@ -35131,31 +35131,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-26",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-26",
     "value": 1
   },
@@ -35263,25 +35263,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-26",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-26",
     "value": 4
   },
@@ -35359,25 +35359,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-26",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-26",
     "value": 1
   },
@@ -35503,31 +35503,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-27",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-03-27",
     "value": 1
   },
@@ -35635,25 +35635,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-27",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-27",
     "value": 4
   },
@@ -35731,25 +35731,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-27",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-03-27",
     "value": 1
   },
@@ -35875,31 +35875,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-07",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-07",
     "value": 1
   },
@@ -36007,25 +36007,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-07",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-07",
     "value": 4
   },
@@ -36103,25 +36103,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-07",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-07",
     "value": 1
   },
@@ -36247,31 +36247,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-09",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-09",
     "value": 1
   },
@@ -36379,25 +36379,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-09",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-09",
     "value": 4
   },
@@ -36475,25 +36475,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-09",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-09",
     "value": 1
   },
@@ -36619,31 +36619,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-13",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-13",
     "value": 1
   },
@@ -36751,25 +36751,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-13",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-13",
     "value": 4
   },
@@ -36847,25 +36847,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-13",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-13",
     "value": 1
   },
@@ -36991,31 +36991,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-14",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-14",
     "value": 1
   },
@@ -37123,25 +37123,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-14",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-14",
     "value": 4
   },
@@ -37219,25 +37219,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-14",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-14",
     "value": 1
   },
@@ -37399,31 +37399,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-15",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-15",
     "value": 1
   },
@@ -37531,25 +37531,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-15",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-15",
     "value": 4
   },
@@ -37627,25 +37627,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-15",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-15",
     "value": 1
   },
@@ -37771,31 +37771,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-16",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-16",
     "value": 1
   },
@@ -37903,25 +37903,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-16",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-16",
     "value": 4
   },
@@ -37999,25 +37999,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-16",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-16",
     "value": 1
   },
@@ -38143,31 +38143,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-17",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-17",
     "value": 1
   },
@@ -38275,25 +38275,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-17",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-17",
     "value": 4
   },
@@ -38371,25 +38371,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-17",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-17",
     "value": 1
   },
@@ -38515,31 +38515,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-20",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-20",
     "value": 1
   },
@@ -38647,25 +38647,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-20",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-20",
     "value": 4
   },
@@ -38743,25 +38743,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-20",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-20",
     "value": 1
   },
@@ -38887,31 +38887,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-21",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-21",
     "value": 1
   },
@@ -39019,25 +39019,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-21",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-21",
     "value": 4
   },
@@ -39115,25 +39115,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-21",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-21",
     "value": 1
   },
@@ -39295,31 +39295,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-22",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-22",
     "value": 1
   },
@@ -39427,25 +39427,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-22",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-22",
     "value": 4
   },
@@ -39523,25 +39523,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-22",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-22",
     "value": 1
   },
@@ -39667,31 +39667,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-23",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-23",
     "value": 1
   },
@@ -39799,25 +39799,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-23",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-23",
     "value": 4
   },
@@ -39895,25 +39895,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-23",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-23",
     "value": 1
   },
@@ -40039,31 +40039,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-24",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-24",
     "value": 1
   },
@@ -40171,25 +40171,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-24",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-24",
     "value": 4
   },
@@ -40267,25 +40267,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-24",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-24",
     "value": 1
   },
@@ -40411,31 +40411,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-27",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-27",
     "value": 1
   },
@@ -40543,25 +40543,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-27",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-27",
     "value": 4
   },
@@ -40639,25 +40639,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-27",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-27",
     "value": 1
   },
@@ -40783,31 +40783,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-28",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-28",
     "value": 1
   },
@@ -40915,25 +40915,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-28",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-28",
     "value": 4
   },
@@ -41011,25 +41011,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-28",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-28",
     "value": 1
   },
@@ -41155,31 +41155,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-30",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-04-30",
     "value": 1
   },
@@ -41287,25 +41287,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-30",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-30",
     "value": 4
   },
@@ -41383,25 +41383,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-30",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-04-30",
     "value": 1
   },
@@ -41527,31 +41527,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-01",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-01",
     "value": 1
   },
@@ -41659,25 +41659,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-01",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-01",
     "value": 4
   },
@@ -41755,25 +41755,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-01",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-01",
     "value": 1
   },
@@ -41899,31 +41899,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-04",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-04",
     "value": 1
   },
@@ -42031,25 +42031,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-04",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-04",
     "value": 4
   },
@@ -42127,25 +42127,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-04",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-04",
     "value": 1
   },
@@ -42271,31 +42271,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-05",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-05",
     "value": 1
   },
@@ -42403,25 +42403,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-05",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-05",
     "value": 4
   },
@@ -42499,25 +42499,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-05",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-05",
     "value": 1
   },
@@ -42679,31 +42679,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-06",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-06",
     "value": 1
   },
@@ -42811,25 +42811,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-06",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-06",
     "value": 4
   },
@@ -42907,25 +42907,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-06",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-06",
     "value": 1
   },
@@ -43051,31 +43051,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-07",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-07",
     "value": 1
   },
@@ -43183,25 +43183,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-07",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-07",
     "value": 4
   },
@@ -43279,25 +43279,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-07",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-07",
     "value": 1
   },
@@ -43423,31 +43423,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-08",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-08",
     "value": 1
   },
@@ -43555,25 +43555,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-08",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-08",
     "value": 4
   },
@@ -43651,25 +43651,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-08",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-08",
     "value": 1
   },
@@ -43795,31 +43795,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-11",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-11",
     "value": 1
   },
@@ -43927,25 +43927,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-11",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-11",
     "value": 4
   },
@@ -44023,25 +44023,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-11",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-11",
     "value": 1
   },
@@ -44167,31 +44167,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-12",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-12",
     "value": 1
   },
@@ -44299,25 +44299,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-12",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-12",
     "value": 4
   },
@@ -44395,25 +44395,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-12",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-12",
     "value": 1
   },
@@ -44575,31 +44575,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-13",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-13",
     "value": 1
   },
@@ -44707,25 +44707,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-13",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-13",
     "value": 4
   },
@@ -44803,25 +44803,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-13",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-13",
     "value": 1
   },
@@ -44977,31 +44977,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-15",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-15",
     "value": 1
   },
@@ -45109,25 +45109,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-15",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-15",
     "value": 4
   },
@@ -45205,25 +45205,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-15",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-15",
     "value": 1
   },
@@ -45379,31 +45379,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-14",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-14",
     "value": 1
   },
@@ -45511,25 +45511,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-14",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-14",
     "value": 4
   },
@@ -45607,25 +45607,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-14",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-14",
     "value": 1
   },
@@ -45799,31 +45799,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-19",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-19",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-19",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-19",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-19",
     "value": 1
   },
@@ -45931,25 +45931,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-19",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-19",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-19",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-19",
     "value": 4
   },
@@ -46027,25 +46027,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-19",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-19",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-19",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-19",
     "value": 1
   },
@@ -46201,31 +46201,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-18",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-18",
     "value": 1
   },
@@ -46333,25 +46333,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-18",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-18",
     "value": 4
   },
@@ -46429,25 +46429,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-18",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-18",
     "value": 1
   },
@@ -46639,31 +46639,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-20",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-20",
     "value": 1
   },
@@ -46771,25 +46771,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-20",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-20",
     "value": 4
   },
@@ -46867,25 +46867,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-20",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-20",
     "value": 1
   },
@@ -47041,31 +47041,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-21",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-21",
     "value": 1
   },
@@ -47173,25 +47173,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-21",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-21",
     "value": 4
   },
@@ -47269,25 +47269,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-21",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-21",
     "value": 1
   },
@@ -47443,31 +47443,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-22",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-22",
     "value": 1
   },
@@ -47575,25 +47575,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-22",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-22",
     "value": 4
   },
@@ -47671,25 +47671,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-22",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-22",
     "value": 1
   },
@@ -47845,31 +47845,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-26",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-26",
     "value": 1
   },
@@ -47977,25 +47977,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-26",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-26",
     "value": 4
   },
@@ -48073,25 +48073,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-26",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-26",
     "value": 1
   },
@@ -48247,31 +48247,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-25",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-25",
     "value": 1
   },
@@ -48379,25 +48379,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-25",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-25",
     "value": 4
   },
@@ -48475,25 +48475,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-25",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-25",
     "value": 1
   },
@@ -48685,31 +48685,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-27",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-27",
     "value": 1
   },
@@ -48817,25 +48817,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-27",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-27",
     "value": 4
   },
@@ -48913,25 +48913,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-27",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-27",
     "value": 1
   },
@@ -49087,31 +49087,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-28",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-28",
     "value": 1
   },
@@ -49219,25 +49219,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-28",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-28",
     "value": 4
   },
@@ -49315,25 +49315,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-28",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-28",
     "value": 1
   },
@@ -49489,31 +49489,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-29",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-05-29",
     "value": 1
   },
@@ -49621,25 +49621,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-29",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-29",
     "value": 4
   },
@@ -49717,25 +49717,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-29",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-05-29",
     "value": 1
   },
@@ -49891,31 +49891,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-01",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-01",
     "value": 1
   },
@@ -50023,25 +50023,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-01",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-01",
     "value": 4
   },
@@ -50119,25 +50119,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-01",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-01",
     "value": 1
   },
@@ -50293,31 +50293,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-02",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-02",
     "value": 1
   },
@@ -50425,25 +50425,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-02",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-02",
     "value": 4
   },
@@ -50521,25 +50521,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-02",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-02",
     "value": 1
   },
@@ -50731,31 +50731,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-03",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-03",
     "value": 1
   },
@@ -50863,25 +50863,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-03",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-03",
     "value": 4
   },
@@ -50959,25 +50959,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-03",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-03",
     "value": 1
   },
@@ -51133,31 +51133,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-04",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-04",
     "value": 1
   },
@@ -51265,25 +51265,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-04",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-04",
     "value": 4
   },
@@ -51361,25 +51361,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-04",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-04",
     "value": 1
   },
@@ -51535,31 +51535,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-05",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-05",
     "value": 1
   },
@@ -51667,25 +51667,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-05",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-05",
     "value": 4
   },
@@ -51763,25 +51763,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-05",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-05",
     "value": 1
   },
@@ -51937,31 +51937,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-08",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-08",
     "value": 1
   },
@@ -52069,25 +52069,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-08",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-08",
     "value": 4
   },
@@ -52165,25 +52165,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-08",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-08",
     "value": 1
   },
@@ -52339,31 +52339,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-09",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-09",
     "value": 1
   },
@@ -52471,25 +52471,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-09",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-09",
     "value": 4
   },
@@ -52567,25 +52567,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-09",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-09",
     "value": 1
   },
@@ -52777,31 +52777,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-10",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-10",
     "value": 1
   },
@@ -52909,25 +52909,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-10",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-10",
     "value": 4
   },
@@ -53005,25 +53005,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-10",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-10",
     "value": 1
   },
@@ -53179,31 +53179,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-11",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-11",
     "value": 1
   },
@@ -53311,25 +53311,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-11",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-11",
     "value": 4
   },
@@ -53407,25 +53407,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-11",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-11",
     "value": 1
   },
@@ -53581,31 +53581,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-12",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-12",
     "value": 1
   },
@@ -53713,25 +53713,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-12",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-12",
     "value": 4
   },
@@ -53809,25 +53809,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-12",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-12",
     "value": 1
   },
@@ -53983,31 +53983,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-15",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-15",
     "value": 1
   },
@@ -54115,25 +54115,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-15",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-15",
     "value": 4
   },
@@ -54211,25 +54211,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-15",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-15",
     "value": 1
   },
@@ -54385,31 +54385,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-16",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-16",
     "value": 1
   },
@@ -54517,25 +54517,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-16",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-16",
     "value": 4
   },
@@ -54613,25 +54613,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-16",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-16",
     "value": 1
   },
@@ -54823,31 +54823,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-17",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-17",
     "value": 1
   },
@@ -54955,25 +54955,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-17",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-17",
     "value": 4
   },
@@ -55051,25 +55051,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-17",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-17",
     "value": 1
   },
@@ -55225,31 +55225,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-18",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-18",
     "value": 1
   },
@@ -55357,25 +55357,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-18",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-18",
     "value": 4
   },
@@ -55453,25 +55453,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-18",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-18",
     "value": 1
   },
@@ -55627,31 +55627,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-19",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-19",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-19",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-19",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-19",
     "value": 1
   },
@@ -55759,25 +55759,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-19",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-19",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-19",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-19",
     "value": 4
   },
@@ -55855,25 +55855,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-19",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-19",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-19",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-19",
     "value": 1
   },
@@ -56029,31 +56029,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-22",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-22",
     "value": 1
   },
@@ -56161,25 +56161,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-22",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-22",
     "value": 4
   },
@@ -56257,25 +56257,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-22",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-22",
     "value": 1
   },
@@ -56431,31 +56431,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-23",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-23",
     "value": 1
   },
@@ -56563,25 +56563,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-23",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-23",
     "value": 4
   },
@@ -56659,25 +56659,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-23",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-23",
     "value": 1
   },
@@ -56869,31 +56869,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-24",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-24",
     "value": 1
   },
@@ -57001,25 +57001,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-24",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-24",
     "value": 4
   },
@@ -57097,25 +57097,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-24",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-24",
     "value": 1
   },
@@ -57271,31 +57271,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-25",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-25",
     "value": 1
   },
@@ -57403,25 +57403,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-25",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-25",
     "value": 4
   },
@@ -57499,25 +57499,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-25",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-25",
     "value": 1
   },
@@ -57673,31 +57673,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-26",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-26",
     "value": 1
   },
@@ -57805,25 +57805,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-26",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-26",
     "value": 4
   },
@@ -57901,25 +57901,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-26",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-26",
     "value": 1
   },
@@ -58075,31 +58075,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-29",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-29",
     "value": 1
   },
@@ -58207,25 +58207,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-29",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-29",
     "value": 4
   },
@@ -58303,25 +58303,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-29",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-29",
     "value": 1
   },
@@ -58477,31 +58477,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-30",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-06-30",
     "value": 1
   },
@@ -58609,25 +58609,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-30",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-30",
     "value": 4
   },
@@ -58705,25 +58705,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-30",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-06-30",
     "value": 1
   },
@@ -58915,31 +58915,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-01",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-01",
     "value": 1
   },
@@ -59047,25 +59047,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-01",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-01",
     "value": 4
   },
@@ -59143,25 +59143,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-01",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-01",
     "value": 1
   },
@@ -59317,31 +59317,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-02",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-02",
     "value": 1
   },
@@ -59449,25 +59449,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-02",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-02",
     "value": 4
   },
@@ -59545,25 +59545,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-02",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-02",
     "value": 1
   },
@@ -59767,31 +59767,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-03",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-03",
     "value": 1
   },
@@ -59899,25 +59899,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-03",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-03",
     "value": 4
   },
@@ -59995,25 +59995,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-03",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-03",
     "value": 1
   },
@@ -60199,31 +60199,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-06",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-06",
     "value": 1
   },
@@ -60331,25 +60331,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-06",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-06",
     "value": 4
   },
@@ -60427,25 +60427,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-06",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-06",
     "value": 1
   },
@@ -60631,31 +60631,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-07",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-07",
     "value": 1
   },
@@ -60763,25 +60763,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-07",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-07",
     "value": 4
   },
@@ -60859,25 +60859,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-07",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-07",
     "value": 1
   },
@@ -61105,31 +61105,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-08",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-08",
     "value": 1
   },
@@ -61237,25 +61237,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-08",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-08",
     "value": 4
   },
@@ -61333,25 +61333,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-08",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-08",
     "value": 1
   },
@@ -61537,31 +61537,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-09",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-09",
     "value": 1
   },
@@ -61669,25 +61669,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-09",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-09",
     "value": 4
   },
@@ -61765,25 +61765,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-09",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-09",
     "value": 1
   },
@@ -61969,31 +61969,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-10",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-10",
     "value": 1
   },
@@ -62101,25 +62101,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-10",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-10",
     "value": 4
   },
@@ -62197,25 +62197,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-10",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-10",
     "value": 1
   },
@@ -62401,31 +62401,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-13",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-13",
     "value": 1
   },
@@ -62533,25 +62533,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-13",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-13",
     "value": 4
   },
@@ -62629,25 +62629,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-13",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-13",
     "value": 1
   },
@@ -62833,31 +62833,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-14",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-14",
     "value": 1
   },
@@ -62965,25 +62965,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-14",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-14",
     "value": 4
   },
@@ -63061,25 +63061,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-14",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-14",
     "value": 1
   },
@@ -63307,31 +63307,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-15",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-15",
     "value": 1
   },
@@ -63439,25 +63439,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-15",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-15",
     "value": 4
   },
@@ -63535,25 +63535,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-15",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-15",
     "value": 1
   },
@@ -63739,31 +63739,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-16",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-16",
     "value": 1
   },
@@ -63871,25 +63871,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-16",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-16",
     "value": 4
   },
@@ -63967,25 +63967,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-16",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-16",
     "value": 1
   },
@@ -64171,31 +64171,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-17",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-17",
     "value": 1
   },
@@ -64303,25 +64303,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-17",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-17",
     "value": 4
   },
@@ -64399,25 +64399,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-17",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-17",
     "value": 1
   },
@@ -64603,31 +64603,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-20",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-20",
     "value": 1
   },
@@ -64735,25 +64735,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-20",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-20",
     "value": 4
   },
@@ -64831,25 +64831,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-20",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-20",
     "value": 1
   },
@@ -65035,31 +65035,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-21",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-21",
     "value": 1
   },
@@ -65167,25 +65167,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-21",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-21",
     "value": 4
   },
@@ -65263,25 +65263,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-21",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-21",
     "value": 1
   },
@@ -65503,31 +65503,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-22",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-22",
     "value": 1
   },
@@ -65635,25 +65635,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-22",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-22",
     "value": 4
   },
@@ -65731,25 +65731,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-22",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-22",
     "value": 1
   },
@@ -65935,31 +65935,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-23",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-23",
     "value": 1
   },
@@ -66067,25 +66067,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-23",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-23",
     "value": 4
   },
@@ -66163,25 +66163,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-23",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-23",
     "value": 1
   },
@@ -66367,31 +66367,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-24",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-24",
     "value": 1
   },
@@ -66499,25 +66499,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-24",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-24",
     "value": 4
   },
@@ -66595,25 +66595,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-24",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-24",
     "value": 1
   },
@@ -66799,31 +66799,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-27",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-27",
     "value": 1
   },
@@ -66931,25 +66931,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-27",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-27",
     "value": 4
   },
@@ -67027,25 +67027,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-27",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-27",
     "value": 1
   },
@@ -67231,31 +67231,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-28",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-28",
     "value": 1
   },
@@ -67363,25 +67363,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-28",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-28",
     "value": 4
   },
@@ -67459,25 +67459,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-28",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-28",
     "value": 1
   },
@@ -67699,31 +67699,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-29",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-29",
     "value": 1
   },
@@ -67831,25 +67831,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-29",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-29",
     "value": 4
   },
@@ -67927,25 +67927,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-29",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-29",
     "value": 1
   },
@@ -68131,31 +68131,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-30",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-30",
     "value": 1
   },
@@ -68263,25 +68263,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-30",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-30",
     "value": 4
   },
@@ -68359,25 +68359,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-30",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-30",
     "value": 1
   },
@@ -68563,31 +68563,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-31",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-31",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-31",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-31",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-07-31",
     "value": 1
   },
@@ -68695,25 +68695,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-31",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-31",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-31",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-31",
     "value": 4
   },
@@ -68791,25 +68791,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-31",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-31",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-31",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-07-31",
     "value": 1
   },
@@ -68995,31 +68995,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-03",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-03",
     "value": 1
   },
@@ -69127,25 +69127,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-03",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-03",
     "value": 4
   },
@@ -69223,25 +69223,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-03",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-03",
     "value": 1
   },
@@ -69427,31 +69427,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-04",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-04",
     "value": 1
   },
@@ -69559,25 +69559,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-04",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-04",
     "value": 4
   },
@@ -69655,25 +69655,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-04",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-04",
     "value": 1
   },
@@ -69895,31 +69895,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-05",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-05",
     "value": 1
   },
@@ -70027,25 +70027,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-05",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-05",
     "value": 4
   },
@@ -70123,25 +70123,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-05",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-05",
     "value": 1
   },
@@ -70327,31 +70327,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-06",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-06",
     "value": 1
   },
@@ -70459,25 +70459,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-06",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-06",
     "value": 4
   },
@@ -70555,25 +70555,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-06",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-06",
     "value": 1
   },
@@ -70759,31 +70759,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-07",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-07",
     "value": 1
   },
@@ -70891,25 +70891,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-07",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-07",
     "value": 4
   },
@@ -70987,25 +70987,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-07",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-07",
     "value": 1
   },
@@ -71191,31 +71191,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-10",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-10",
     "value": 1
   },
@@ -71323,25 +71323,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-10",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-10",
     "value": 4
   },
@@ -71419,25 +71419,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-10",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-10",
     "value": 1
   },
@@ -71623,31 +71623,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-11",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-11",
     "value": 1
   },
@@ -71755,25 +71755,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-11",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-11",
     "value": 4
   },
@@ -71851,25 +71851,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-11",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-11",
     "value": 1
   },
@@ -72091,31 +72091,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-12",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-12",
     "value": 1
   },
@@ -72223,25 +72223,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-12",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-12",
     "value": 4
   },
@@ -72319,25 +72319,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-12",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-12",
     "value": 1
   },
@@ -72523,31 +72523,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-13",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-13",
     "value": 1
   },
@@ -72655,25 +72655,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-13",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-13",
     "value": 4
   },
@@ -72751,25 +72751,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-13",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-13",
     "value": 1
   },
@@ -72955,31 +72955,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-14",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-14",
     "value": 1
   },
@@ -73087,25 +73087,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-14",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-14",
     "value": 4
   },
@@ -73183,25 +73183,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-14",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-14",
     "value": 1
   },
@@ -73387,31 +73387,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-17",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-17",
     "value": 1
   },
@@ -73519,25 +73519,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-17",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-17",
     "value": 4
   },
@@ -73615,25 +73615,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-17",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-17",
     "value": 1
   },
@@ -73819,31 +73819,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-18",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-18",
     "value": 1
   },
@@ -73951,25 +73951,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-18",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-18",
     "value": 4
   },
@@ -74047,25 +74047,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-18",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-18",
     "value": 1
   },
@@ -74287,31 +74287,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-19",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-19",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-19",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-19",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-19",
     "value": 1
   },
@@ -74419,25 +74419,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-19",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-19",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-19",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-19",
     "value": 4
   },
@@ -74515,25 +74515,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-19",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-19",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-19",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-19",
     "value": 1
   },
@@ -74719,31 +74719,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-20",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-20",
     "value": 1
   },
@@ -74851,25 +74851,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-20",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-20",
     "value": 4
   },
@@ -74947,25 +74947,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-20",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-20",
     "value": 1
   },
@@ -75151,31 +75151,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-21",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-21",
     "value": 1
   },
@@ -75283,25 +75283,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-21",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-21",
     "value": 4
   },
@@ -75379,25 +75379,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-21",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-21",
     "value": 1
   },
@@ -75583,31 +75583,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-24",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-24",
     "value": 1
   },
@@ -75715,25 +75715,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-24",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-24",
     "value": 4
   },
@@ -75811,25 +75811,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-24",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-24",
     "value": 1
   },
@@ -76015,31 +76015,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-25",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-25",
     "value": 1
   },
@@ -76147,25 +76147,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-25",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-25",
     "value": 4
   },
@@ -76243,25 +76243,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-25",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-25",
     "value": 1
   },
@@ -76483,31 +76483,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-26",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-26",
     "value": 1
   },
@@ -76615,25 +76615,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-26",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-26",
     "value": 4
   },
@@ -76711,25 +76711,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-26",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-26",
     "value": 1
   },
@@ -76915,31 +76915,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-27",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-27",
     "value": 1
   },
@@ -77047,25 +77047,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-27",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-27",
     "value": 4
   },
@@ -77143,25 +77143,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-27",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-27",
     "value": 1
   },
@@ -77347,31 +77347,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-28",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-28",
     "value": 1
   },
@@ -77479,25 +77479,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-28",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-28",
     "value": 4
   },
@@ -77575,25 +77575,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-28",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-28",
     "value": 1
   },
@@ -77779,31 +77779,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-31",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-31",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-31",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-31",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-08-31",
     "value": 1
   },
@@ -77911,25 +77911,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-31",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-31",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-31",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-31",
     "value": 4
   },
@@ -78007,25 +78007,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-31",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-31",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-31",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-08-31",
     "value": 1
   },
@@ -78211,31 +78211,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-01",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-01",
     "value": 1
   },
@@ -78343,25 +78343,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-01",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-01",
     "value": 4
   },
@@ -78439,25 +78439,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-01",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-01",
     "value": 1
   },
@@ -78673,31 +78673,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-02",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-02",
     "value": 1
   },
@@ -78805,25 +78805,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-02",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-02",
     "value": 4
   },
@@ -78901,25 +78901,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-02",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-02",
     "value": 1
   },
@@ -79105,31 +79105,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-03",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-03",
     "value": 1
   },
@@ -79237,25 +79237,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-03",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-03",
     "value": 4
   },
@@ -79333,25 +79333,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-03",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-03",
     "value": 1
   },
@@ -79537,31 +79537,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-04",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-04",
     "value": 1
   },
@@ -79669,25 +79669,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-04",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-04",
     "value": 4
   },
@@ -79765,25 +79765,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-04",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-04",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-04",
     "value": 1
   },
@@ -79969,31 +79969,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-07",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-07",
     "value": 1
   },
@@ -80101,25 +80101,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-07",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-07",
     "value": 4
   },
@@ -80197,25 +80197,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-07",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-07",
     "value": 1
   },
@@ -80401,31 +80401,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-08",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-08",
     "value": 1
   },
@@ -80533,25 +80533,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-08",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-08",
     "value": 4
   },
@@ -80629,25 +80629,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-08",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-08",
     "value": 1
   },
@@ -80863,31 +80863,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-09",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-09",
     "value": 1
   },
@@ -80995,25 +80995,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-09",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-09",
     "value": 4
   },
@@ -81091,25 +81091,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-09",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-09",
     "value": 1
   },
@@ -81295,31 +81295,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-10",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-10",
     "value": 1
   },
@@ -81427,25 +81427,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-10",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-10",
     "value": 4
   },
@@ -81523,25 +81523,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-10",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-10",
     "value": 1
   },
@@ -81727,31 +81727,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-11",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-11",
     "value": 1
   },
@@ -81859,25 +81859,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-11",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-11",
     "value": 4
   },
@@ -81955,25 +81955,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-11",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-11",
     "value": 1
   },
@@ -82159,31 +82159,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-14",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-14",
     "value": 1
   },
@@ -82291,25 +82291,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-14",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-14",
     "value": 4
   },
@@ -82387,25 +82387,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-14",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-14",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-14",
     "value": 1
   },
@@ -82591,31 +82591,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-15",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-15",
     "value": 1
   },
@@ -82723,25 +82723,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-15",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-15",
     "value": 4
   },
@@ -82819,25 +82819,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-15",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-15",
     "value": 1
   },
@@ -83053,31 +83053,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-16",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-16",
     "value": 1
   },
@@ -83185,25 +83185,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-16",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-16",
     "value": 4
   },
@@ -83281,25 +83281,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-16",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-16",
     "value": 1
   },
@@ -83485,31 +83485,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-17",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-17",
     "value": 1
   },
@@ -83617,25 +83617,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-17",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-17",
     "value": 4
   },
@@ -83713,25 +83713,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-17",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-17",
     "value": 1
   },
@@ -83917,31 +83917,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-18",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-18",
     "value": 1
   },
@@ -84049,25 +84049,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-18",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-18",
     "value": 4
   },
@@ -84145,25 +84145,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-18",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-18",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-18",
     "value": 1
   },
@@ -84349,31 +84349,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-21",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-21",
     "value": 1
   },
@@ -84481,25 +84481,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-21",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-21",
     "value": 4
   },
@@ -84577,25 +84577,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-21",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-21",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-21",
     "value": 1
   },
@@ -84781,31 +84781,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-22",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-22",
     "value": 1
   },
@@ -84913,25 +84913,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-22",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-22",
     "value": 4
   },
@@ -85009,25 +85009,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-22",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-22",
     "value": 1
   },
@@ -85243,31 +85243,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-23",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-23",
     "value": 1
   },
@@ -85375,25 +85375,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-23",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-23",
     "value": 4
   },
@@ -85471,25 +85471,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-23",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-23",
     "value": 1
   },
@@ -85675,31 +85675,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-24",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-24",
     "value": 1
   },
@@ -85807,25 +85807,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-24",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-24",
     "value": 4
   },
@@ -85903,25 +85903,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-24",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-24",
     "value": 1
   },
@@ -86107,31 +86107,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-25",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-25",
     "value": 1
   },
@@ -86239,25 +86239,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-25",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-25",
     "value": 4
   },
@@ -86335,25 +86335,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-25",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-25",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-25",
     "value": 1
   },
@@ -86539,31 +86539,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-28",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-28",
     "value": 1
   },
@@ -86671,25 +86671,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-28",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-28",
     "value": 4
   },
@@ -86767,25 +86767,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-28",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-28",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-28",
     "value": 1
   },
@@ -86971,31 +86971,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-29",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-29",
     "value": 1
   },
@@ -87103,25 +87103,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-29",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-29",
     "value": 4
   },
@@ -87199,25 +87199,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-29",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-29",
     "value": 1
   },
@@ -87433,31 +87433,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-30",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-09-30",
     "value": 1
   },
@@ -87565,25 +87565,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-30",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-30",
     "value": 4
   },
@@ -87661,25 +87661,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-30",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-09-30",
     "value": 1
   },
@@ -87865,31 +87865,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-01",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-01",
     "value": 1
   },
@@ -87997,25 +87997,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-01",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-01",
     "value": 4
   },
@@ -88093,25 +88093,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-01",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-01",
     "value": 1
   },
@@ -88297,31 +88297,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-02",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-02",
     "value": 1
   },
@@ -88429,25 +88429,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-02",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-02",
     "value": 4
   },
@@ -88525,25 +88525,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-02",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-02",
     "value": 1
   },
@@ -88729,31 +88729,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-05",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-05",
     "value": 1
   },
@@ -88861,25 +88861,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-05",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-05",
     "value": 4
   },
@@ -88957,25 +88957,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-05",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-05",
     "value": 1
   },
@@ -89161,31 +89161,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-06",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-06",
     "value": 1
   },
@@ -89293,25 +89293,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-06",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-06",
     "value": 4
   },
@@ -89389,25 +89389,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-06",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-06",
     "value": 1
   },
@@ -89623,31 +89623,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-07",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-07",
     "value": 1
   },
@@ -89755,25 +89755,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-07",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-07",
     "value": 4
   },
@@ -89851,25 +89851,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-07",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-07",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-07",
     "value": 1
   },
@@ -90055,31 +90055,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-08",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-08",
     "value": 1
   },
@@ -90187,25 +90187,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-08",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-08",
     "value": 4
   },
@@ -90283,25 +90283,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-08",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-08",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-08",
     "value": 1
   },
@@ -90487,31 +90487,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-09",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-09",
     "value": 1
   },
@@ -90619,25 +90619,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-09",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-09",
     "value": 4
   },
@@ -90715,25 +90715,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-09",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-09",
     "value": 1
   },
@@ -90919,31 +90919,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-13",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-13",
     "value": 1
   },
@@ -91051,25 +91051,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-13",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-13",
     "value": 4
   },
@@ -91147,25 +91147,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-13",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-13",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-13",
     "value": 1
   },
@@ -91351,31 +91351,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-15",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-15",
     "value": 1
   },
@@ -91483,25 +91483,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-15",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-15",
     "value": 4
   },
@@ -91579,25 +91579,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-15",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-15",
     "value": 1
   },
@@ -91783,31 +91783,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-16",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-16",
     "value": 1
   },
@@ -91915,25 +91915,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-16",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-16",
     "value": 4
   },
@@ -92011,25 +92011,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-16",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-16",
     "value": 1
   },
@@ -92215,31 +92215,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-20",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-20",
     "value": 1
   },
@@ -92347,25 +92347,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-20",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-20",
     "value": 4
   },
@@ -92443,25 +92443,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-20",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-20",
     "value": 1
   },
@@ -92647,31 +92647,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-22",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-22",
     "value": 1
   },
@@ -92779,25 +92779,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-22",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-22",
     "value": 4
   },
@@ -92875,25 +92875,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-22",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-22",
     "value": 1
   },
@@ -93079,31 +93079,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-23",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-23",
     "value": 1
   },
@@ -93211,25 +93211,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-23",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-23",
     "value": 4
   },
@@ -93307,25 +93307,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-23",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-23",
     "value": 1
   },
@@ -93505,31 +93505,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-26",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-26",
     "value": 1
   },
@@ -93637,25 +93637,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-26",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-26",
     "value": 4
   },
@@ -93733,25 +93733,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-26",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-26",
     "value": 1
   },
@@ -93931,31 +93931,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-27",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-27",
     "value": 1
   },
@@ -94063,25 +94063,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-27",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-27",
     "value": 4
   },
@@ -94159,25 +94159,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-27",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-27",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-27",
     "value": 1
   },
@@ -94357,31 +94357,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-29",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-29",
     "value": 1
   },
@@ -94489,25 +94489,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-29",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-29",
     "value": 4
   },
@@ -94585,25 +94585,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-29",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-29",
     "value": 1
   },
@@ -94783,31 +94783,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-30",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-10-30",
     "value": 1
   },
@@ -94915,25 +94915,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-30",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-30",
     "value": 4
   },
@@ -95011,25 +95011,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-30",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-30",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-10-30",
     "value": 1
   },
@@ -95209,31 +95209,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-03",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-03",
     "value": 1
   },
@@ -95341,25 +95341,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-03",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-03",
     "value": 4
   },
@@ -95437,25 +95437,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-03",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-03",
     "value": 1
   },
@@ -95635,31 +95635,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-05",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-05",
     "value": 1
   },
@@ -95767,25 +95767,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-05",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-05",
     "value": 4
   },
@@ -95863,25 +95863,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-05",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-05",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-05",
     "value": 1
   },
@@ -96061,31 +96061,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-06",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-06",
     "value": 1
   },
@@ -96193,25 +96193,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-06",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-06",
     "value": 4
   },
@@ -96289,25 +96289,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-06",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-06",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-06",
     "value": 1
   },
@@ -96487,31 +96487,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-10",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-10",
     "value": 1
   },
@@ -96619,25 +96619,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-10",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-10",
     "value": 4
   },
@@ -96715,25 +96715,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-10",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-10",
     "value": 1
   },
@@ -96949,31 +96949,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-11",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-11",
     "value": 1
   },
@@ -97081,25 +97081,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-11",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-11",
     "value": 4
   },
@@ -97177,25 +97177,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-11",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-11",
     "value": 1
   },
@@ -97375,31 +97375,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-12",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-12",
     "value": 1
   },
@@ -97507,25 +97507,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-12",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-12",
     "value": 4
   },
@@ -97603,25 +97603,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-12",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-12",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-12",
     "value": 1
   },
@@ -97801,31 +97801,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-16",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-16",
     "value": 1
   },
@@ -97933,25 +97933,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-16",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-16",
     "value": 4
   },
@@ -98029,25 +98029,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-16",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-16",
     "value": 1
   },
@@ -98227,31 +98227,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-17",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-17",
     "value": 1
   },
@@ -98359,25 +98359,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-17",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-17",
     "value": 4
   },
@@ -98455,25 +98455,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-17",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-17",
     "value": 1
   },
@@ -98653,31 +98653,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-20",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-20",
     "value": 1
   },
@@ -98785,25 +98785,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-20",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-20",
     "value": 4
   },
@@ -98881,25 +98881,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-20",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-20",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-20",
     "value": 1
   },
@@ -99079,31 +99079,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-24",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-24",
     "value": 1
   },
@@ -99211,25 +99211,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-24",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-24",
     "value": 4
   },
@@ -99307,25 +99307,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-24",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-24",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-24",
     "value": 1
   },
@@ -99505,31 +99505,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-26",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-11-26",
     "value": 1
   },
@@ -99637,25 +99637,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-26",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-26",
     "value": 4
   },
@@ -99733,25 +99733,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-26",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-26",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-11-26",
     "value": 1
   },
@@ -99931,31 +99931,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-01",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-01",
     "value": 1
   },
@@ -100063,25 +100063,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-01",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-01",
     "value": 4
   },
@@ -100159,25 +100159,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-01",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-01",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-01",
     "value": 1
   },
@@ -100393,31 +100393,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-02",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-02",
     "value": 1
   },
@@ -100525,25 +100525,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-02",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-02",
     "value": 4
   },
@@ -100621,25 +100621,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-02",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-02",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-02",
     "value": 1
   },
@@ -100819,31 +100819,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-03",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-03",
     "value": 1
   },
@@ -100951,25 +100951,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-03",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-03",
     "value": 4
   },
@@ -101047,25 +101047,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-03",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-03",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-03",
     "value": 1
   },
@@ -101281,31 +101281,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-09",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-09",
     "value": 1
   },
@@ -101413,25 +101413,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-09",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-09",
     "value": 4
   },
@@ -101509,25 +101509,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-09",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-09",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-09",
     "value": 1
   },
@@ -101707,31 +101707,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-10",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-10",
     "value": 1
   },
@@ -101839,25 +101839,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-10",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-10",
     "value": 4
   },
@@ -101935,25 +101935,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-10",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-10",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-10",
     "value": 1
   },
@@ -102133,31 +102133,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-11",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-11",
     "value": 1
   },
@@ -102265,25 +102265,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-11",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-11",
     "value": 4
   },
@@ -102361,25 +102361,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-11",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-11",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-11",
     "value": 1
   },
@@ -102559,31 +102559,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-15",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-15",
     "value": 1
   },
@@ -102691,25 +102691,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-15",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-15",
     "value": 4
   },
@@ -102787,25 +102787,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-15",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-15",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-15",
     "value": 1
   },
@@ -103021,31 +103021,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-16",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-16",
     "value": 1
   },
@@ -103153,25 +103153,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-16",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-16",
     "value": 4
   },
@@ -103249,25 +103249,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-16",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-16",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-16",
     "value": 1
   },
@@ -103447,31 +103447,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-17",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-17",
     "value": 1
   },
@@ -103579,25 +103579,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-17",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-17",
     "value": 4
   },
@@ -103675,25 +103675,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-17",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-17",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-17",
     "value": 1
   },
@@ -103873,31 +103873,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-22",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-22",
     "value": 1
   },
@@ -104005,25 +104005,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-22",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-22",
     "value": 4
   },
@@ -104101,25 +104101,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-22",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-22",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-22",
     "value": 1
   },
@@ -104335,31 +104335,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-23",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-23",
     "value": 1
   },
@@ -104467,25 +104467,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-23",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-23",
     "value": 4
   },
@@ -104563,25 +104563,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-23",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-23",
     "value": 1
   },
@@ -104761,31 +104761,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-29",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2015-12-29",
     "value": 1
   },
@@ -104893,25 +104893,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-29",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-29",
     "value": 4
   },
@@ -104989,25 +104989,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-29",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-29",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2015-12-29",
     "value": 1
   },
@@ -105259,31 +105259,31 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2016-03-23",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2016-03-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2016-03-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2016-03-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United Kingdom",
+    "Country": "UK",
     "Date": "2016-03-23",
     "value": 1
   },
@@ -105391,25 +105391,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2016-03-23",
     "value": 4
   },
   {
     "Indicator": "Cumulative number of probable Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2016-03-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2016-03-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola cases",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2016-03-23",
     "value": 4
   },
@@ -105487,25 +105487,25 @@ export const Ebolavirus = [
   },
   {
     "Indicator": "Cumulative number of confirmed Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2016-03-23",
     "value": 1
   },
   {
     "Indicator": "Cumulative number of probable Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2016-03-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2016-03-23",
     "value": 0
   },
   {
     "Indicator": "Cumulative number of confirmed, probable and suspected Ebola deaths",
-    "Country": "United States of America",
+    "Country": "USA",
     "Date": "2016-03-23",
     "value": 1
   }

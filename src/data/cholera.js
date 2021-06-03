@@ -17888,7 +17888,7 @@ export const cholera = [
    "WHO Region": "Eastern Mediterranean"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 2016,
    "Number of reported cases of cholera": "19",
    "Number of reported deaths from cholera": "0",
@@ -17896,7 +17896,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 2015,
    "Number of reported cases of cholera": "15",
    "Number of reported deaths from cholera": "0",
@@ -17904,7 +17904,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 2014,
    "Number of reported cases of cholera": "14",
    "Number of reported deaths from cholera": "0",
@@ -17912,7 +17912,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 2013,
    "Number of reported cases of cholera": "6",
    "Number of reported deaths from cholera": "0",
@@ -17920,7 +17920,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 2012,
    "Number of reported cases of cholera": "17",
    "Number of reported deaths from cholera": "0",
@@ -17928,7 +17928,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 2011,
    "Number of reported cases of cholera": "32 ",
    "Number of reported deaths from cholera": "0",
@@ -17936,7 +17936,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 2010,
    "Number of reported cases of cholera": "8",
    "Number of reported deaths from cholera": "0",
@@ -17944,7 +17944,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 2009,
    "Number of reported cases of cholera": "16",
    "Number of reported deaths from cholera": "0",
@@ -17952,7 +17952,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 2008,
    "Number of reported cases of cholera": "8",
    "Number of reported deaths from cholera": "0",
@@ -17960,7 +17960,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 2007,
    "Number of reported cases of cholera": "32",
    "Number of reported deaths from cholera": "0",
@@ -17968,7 +17968,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 2006,
    "Number of reported cases of cholera": "49",
    "Number of reported deaths from cholera": "0",
@@ -17976,7 +17976,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 2004,
    "Number of reported cases of cholera": "13",
    "Number of reported deaths from cholera": "0",
@@ -17984,7 +17984,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 2003,
    "Number of reported cases of cholera": "9",
    "Number of reported deaths from cholera": "",
@@ -17992,7 +17992,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 2000,
    "Number of reported cases of cholera": "33",
    "Number of reported deaths from cholera": "",
@@ -18000,7 +18000,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 1998,
    "Number of reported cases of cholera": "18",
    "Number of reported deaths from cholera": "0",
@@ -18008,7 +18008,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 1997,
    "Number of reported cases of cholera": "6",
    "Number of reported deaths from cholera": "0",
@@ -18016,7 +18016,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 1996,
    "Number of reported cases of cholera": "13",
    "Number of reported deaths from cholera": "0",
@@ -18024,7 +18024,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 1995,
    "Number of reported cases of cholera": "10",
    "Number of reported deaths from cholera": "0",
@@ -18032,7 +18032,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 1994,
    "Number of reported cases of cholera": "18",
    "Number of reported deaths from cholera": "0",
@@ -18040,7 +18040,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 1993,
    "Number of reported cases of cholera": "13",
    "Number of reported deaths from cholera": "0",
@@ -18048,7 +18048,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 1992,
    "Number of reported cases of cholera": "5",
    "Number of reported deaths from cholera": "0",
@@ -18056,7 +18056,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 1991,
    "Number of reported cases of cholera": "8",
    "Number of reported deaths from cholera": "0",
@@ -18064,7 +18064,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 1990,
    "Number of reported cases of cholera": "6",
    "Number of reported deaths from cholera": "0",
@@ -18072,7 +18072,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 1989,
    "Number of reported cases of cholera": "1",
    "Number of reported deaths from cholera": "0",
@@ -18080,7 +18080,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 1988,
    "Number of reported cases of cholera": "10",
    "Number of reported deaths from cholera": "0",
@@ -18088,7 +18088,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 1987,
    "Number of reported cases of cholera": "2",
    "Number of reported deaths from cholera": "0",
@@ -18096,7 +18096,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 1986,
    "Number of reported cases of cholera": "11",
    "Number of reported deaths from cholera": "0",
@@ -18104,7 +18104,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 1985,
    "Number of reported cases of cholera": "4",
    "Number of reported deaths from cholera": "1",
@@ -18112,7 +18112,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 1984,
    "Number of reported cases of cholera": "5",
    "Number of reported deaths from cholera": "0",
@@ -18120,7 +18120,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 1983,
    "Number of reported cases of cholera": "4",
    "Number of reported deaths from cholera": "0",
@@ -18128,7 +18128,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 1982,
    "Number of reported cases of cholera": "1",
    "Number of reported deaths from cholera": "0",
@@ -18136,7 +18136,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 1981,
    "Number of reported cases of cholera": "12",
    "Number of reported deaths from cholera": "0",
@@ -18144,7 +18144,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 1980,
    "Number of reported cases of cholera": "6",
    "Number of reported deaths from cholera": "",
@@ -18152,7 +18152,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 1977,
    "Number of reported cases of cholera": "2",
    "Number of reported deaths from cholera": "0",
@@ -18160,7 +18160,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 1976,
    "Number of reported cases of cholera": "1",
    "Number of reported deaths from cholera": "0",
@@ -18168,7 +18168,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 1975,
    "Number of reported cases of cholera": "1",
    "Number of reported deaths from cholera": "0",
@@ -18176,7 +18176,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 1974,
    "Number of reported cases of cholera": "3",
    "Number of reported deaths from cholera": "0",
@@ -18184,7 +18184,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 1973,
    "Number of reported cases of cholera": "5",
    "Number of reported deaths from cholera": "0",
@@ -18192,7 +18192,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 1972,
    "Number of reported cases of cholera": "2",
    "Number of reported deaths from cholera": "0",
@@ -18200,7 +18200,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 1971,
    "Number of reported cases of cholera": "3",
    "Number of reported deaths from cholera": "0",
@@ -18208,7 +18208,7 @@ export const cholera = [
    "WHO Region": "Europe"
  },
  {
-   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "Country": "UK",
    "Year": 1970,
    "Number of reported cases of cholera": "1",
    "Number of reported deaths from cholera": "0",
@@ -18536,7 +18536,7 @@ export const cholera = [
    "WHO Region": "Africa"
  },
  {
-   "Country": "United States of America",
+   "Country": "USA",
    "Year": 2016,
    "Number of reported cases of cholera": "14",
    "Number of reported deaths from cholera": "0",
@@ -18544,7 +18544,7 @@ export const cholera = [
    "WHO Region": "Americas"
  },
  {
-   "Country": "United States of America",
+   "Country": "USA",
    "Year": 2015,
    "Number of reported cases of cholera": "4",
    "Number of reported deaths from cholera": "0",
@@ -18552,7 +18552,7 @@ export const cholera = [
    "WHO Region": "Americas"
  },
  {
-   "Country": "United States of America",
+   "Country": "USA",
    "Year": 2014,
    "Number of reported cases of cholera": "7",
    "Number of reported deaths from cholera": "0",
@@ -18560,7 +18560,7 @@ export const cholera = [
    "WHO Region": "Americas"
  },
  {
-   "Country": "United States of America",
+   "Country": "USA",
    "Year": 2013,
    "Number of reported cases of cholera": "14",
    "Number of reported deaths from cholera": "0",
@@ -18568,7 +18568,7 @@ export const cholera = [
    "WHO Region": "Americas"
  },
  {
-   "Country": "United States of America",
+   "Country": "USA",
    "Year": 2012,
    "Number of reported cases of cholera": "18",
    "Number of reported deaths from cholera": "0",
@@ -18576,7 +18576,7 @@ export const cholera = [
    "WHO Region": "Americas"
  },
  {
-   "Country": "United States of America",
+   "Country": "USA",
    "Year": 2011,
    "Number of reported cases of cholera": "42 ",
    "Number of reported deaths from cholera": "0",
@@ -18584,7 +18584,7 @@ export const cholera = [
    "WHO Region": "Americas"
  },
  {
-   "Country": "United States of America",
+   "Country": "USA",
    "Year": 2010,
    "Number of reported cases of cholera": "15",
    "Number of reported deaths from cholera": "0",
@@ -18592,7 +18592,7 @@ export const cholera = [
    "WHO Region": "Americas"
  },
  {
-   "Country": "United States of America",
+   "Country": "USA",
    "Year": 2009,
    "Number of reported cases of cholera": "10",
    "Number of reported deaths from cholera": "0",
@@ -18600,7 +18600,7 @@ export const cholera = [
    "WHO Region": "Americas"
  },
  {
-   "Country": "United States of America",
+   "Country": "USA",
    "Year": 2008,
    "Number of reported cases of cholera": "5",
    "Number of reported deaths from cholera": "0",
@@ -18608,7 +18608,7 @@ export const cholera = [
    "WHO Region": "Americas"
  },
  {
-   "Country": "United States of America",
+   "Country": "USA",
    "Year": 2007,
    "Number of reported cases of cholera": "7",
    "Number of reported deaths from cholera": "0",
@@ -18616,7 +18616,7 @@ export const cholera = [
    "WHO Region": "Americas"
  },
  {
-   "Country": "United States of America",
+   "Country": "USA",
    "Year": 2006,
    "Number of reported cases of cholera": "8",
    "Number of reported deaths from cholera": "0",
@@ -18624,7 +18624,7 @@ export const cholera = [
    "WHO Region": "Americas"
  },
  {
-   "Country": "United States of America",
+   "Country": "USA",
    "Year": 2005,
    "Number of reported cases of cholera": "12",
    "Number of reported deaths from cholera": "0",
@@ -18632,7 +18632,7 @@ export const cholera = [
    "WHO Region": "Americas"
  },
  {
-   "Country": "United States of America",
+   "Country": "USA",
    "Year": 2004,
    "Number of reported cases of cholera": "5",
    "Number of reported deaths from cholera": "0",
@@ -18640,7 +18640,7 @@ export const cholera = [
    "WHO Region": "Americas"
  },
  {
-   "Country": "United States of America",
+   "Country": "USA",
    "Year": 2003,
    "Number of reported cases of cholera": "2",
    "Number of reported deaths from cholera": "",
@@ -18648,7 +18648,7 @@ export const cholera = [
    "WHO Region": "Americas"
  },
  {
-   "Country": "United States of America",
+   "Country": "USA",
    "Year": 2002,
    "Number of reported cases of cholera": "2",
    "Number of reported deaths from cholera": "",
@@ -18656,7 +18656,7 @@ export const cholera = [
    "WHO Region": "Americas"
  },
  {
-   "Country": "United States of America",
+   "Country": "USA",
    "Year": 2001,
    "Number of reported cases of cholera": "4",
    "Number of reported deaths from cholera": "",
@@ -18664,7 +18664,7 @@ export const cholera = [
    "WHO Region": "Americas"
  },
  {
-   "Country": "United States of America",
+   "Country": "USA",
    "Year": 2000,
    "Number of reported cases of cholera": "4",
    "Number of reported deaths from cholera": "0",
@@ -18672,7 +18672,7 @@ export const cholera = [
    "WHO Region": "Americas"
  },
  {
-   "Country": "United States of America",
+   "Country": "USA",
    "Year": 1999,
    "Number of reported cases of cholera": "6",
    "Number of reported deaths from cholera": "0",
@@ -18680,7 +18680,7 @@ export const cholera = [
    "WHO Region": "Americas"
  },
  {
-   "Country": "United States of America",
+   "Country": "USA",
    "Year": 1998,
    "Number of reported cases of cholera": "17",
    "Number of reported deaths from cholera": "0",
@@ -18688,7 +18688,7 @@ export const cholera = [
    "WHO Region": "Americas"
  },
  {
-   "Country": "United States of America",
+   "Country": "USA",
    "Year": 1997,
    "Number of reported cases of cholera": "4",
    "Number of reported deaths from cholera": "0",
@@ -18696,7 +18696,7 @@ export const cholera = [
    "WHO Region": "Americas"
  },
  {
-   "Country": "United States of America",
+   "Country": "USA",
    "Year": 1996,
    "Number of reported cases of cholera": "3",
    "Number of reported deaths from cholera": "0",
@@ -18704,7 +18704,7 @@ export const cholera = [
    "WHO Region": "Americas"
  },
  {
-   "Country": "United States of America",
+   "Country": "USA",
    "Year": 1995,
    "Number of reported cases of cholera": "19",
    "Number of reported deaths from cholera": "0",
@@ -18712,7 +18712,7 @@ export const cholera = [
    "WHO Region": "Americas"
  },
  {
-   "Country": "United States of America",
+   "Country": "USA",
    "Year": 1994,
    "Number of reported cases of cholera": "47",
    "Number of reported deaths from cholera": "0",
@@ -18720,7 +18720,7 @@ export const cholera = [
    "WHO Region": "Americas"
  },
  {
-   "Country": "United States of America",
+   "Country": "USA",
    "Year": 1993,
    "Number of reported cases of cholera": "19",
    "Number of reported deaths from cholera": "0",
@@ -18728,7 +18728,7 @@ export const cholera = [
    "WHO Region": "Americas"
  },
  {
-   "Country": "United States of America",
+   "Country": "USA",
    "Year": 1992,
    "Number of reported cases of cholera": "103",
    "Number of reported deaths from cholera": "1",
@@ -18736,7 +18736,7 @@ export const cholera = [
    "WHO Region": "Americas"
  },
  {
-   "Country": "United States of America",
+   "Country": "USA",
    "Year": 1991,
    "Number of reported cases of cholera": "26",
    "Number of reported deaths from cholera": "0",
@@ -18744,7 +18744,7 @@ export const cholera = [
    "WHO Region": "Americas"
  },
  {
-   "Country": "United States of America",
+   "Country": "USA",
    "Year": 1990,
    "Number of reported cases of cholera": "7",
    "Number of reported deaths from cholera": "0",
@@ -18752,7 +18752,7 @@ export const cholera = [
    "WHO Region": "Americas"
  },
  {
-   "Country": "United States of America",
+   "Country": "USA",
    "Year": 1988,
    "Number of reported cases of cholera": "9",
    "Number of reported deaths from cholera": "0",
@@ -18760,7 +18760,7 @@ export const cholera = [
    "WHO Region": "Americas"
  },
  {
-   "Country": "United States of America",
+   "Country": "USA",
    "Year": 1987,
    "Number of reported cases of cholera": "6",
    "Number of reported deaths from cholera": "0",
